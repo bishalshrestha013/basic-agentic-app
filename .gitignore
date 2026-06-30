@@ -1,2 +1,4 @@
 env
 .env
+expenses.db
+__pycache__
